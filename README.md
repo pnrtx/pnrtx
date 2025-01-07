@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hello! I'm **Pankaj Rout** 👋, a passionate developer, innovator, and tech enthusiast.
+Hello! I'm **Pankaj Kumar Rout** 👋, a passionate developer, innovator, and tech enthusiast.
 
 ## 💻 About Me
 
