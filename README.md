@@ -33,11 +33,11 @@ Feel free to explore my repositories for more of my projects!
 
 - 🌍 **My Blog**: Sharing knowledge on tech topics. [Visit here](https://your-blog-link.com)
 - 🎥 **YouTube**: Check out my tutorials on Android development. [Watch now](https://youtube-link.com)
-
+<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs)
-
+--->
 ## 📬 Connect with Me
 
 - 📧 Email: [pankaj.enggrl@gmail.com](mailto:pankaj.enggrl@gmail.com)
