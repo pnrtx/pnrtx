@@ -7,10 +7,10 @@ Hello! I'm **Pankaj Kumar Rout** 👋, a passionate developer, innovator, and te
 I'm a full-stack developer with a keen interest in building impactful apps for both **web** 🌐 and **mobile** 📱 platforms. Currently, I focus on **React** and **Android** development, and I love exploring new technologies like **AI**, **Java Spring Boot**, and **Microservices**. 
 
 - 🔧 Languages & Technologies:
-  - **Backend**: Node.js, Express, Java Spring Boot
+  - **Backend**: Python, Rust, Node.js, Java Spring Boot
   - **Frontend**: React, Redux, Next.js
   - **Mobile**: Android (Jetpack Compose, Kotlin), React Native
-  - **Database**: PostgreSQL, Room, MySQL
+  - **Database**: PostgreSQL, SQLite-Room, MySQL
   - **Cloud**: AWS, Docker
   - **Other Tools**: Git, GitHub, Jenkins, Kubernetes
 
