@@ -41,8 +41,8 @@ Feel free to explore my repositories for more of my projects!
 ## 📬 Connect with Me
 
 - 📧 Email: [👉Mail📨](mailto:pankaj.enggr@gmail.com)
-- 🌐 Website: [👆click](https://pnrt.github.io/folio/)
-- 🐦 Twitter: [@_pnrt](https://x.com/_pnrt)
+- 🌐 Website: [👉Click](https://pnrt.github.io/folio/)
+- 🐦 Twitter: [@_pnrt](https://x.com/_pnrt)
 
 Let's build something amazing together! 💡
 
