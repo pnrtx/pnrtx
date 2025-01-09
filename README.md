@@ -40,7 +40,7 @@ Feel free to explore my repositories for more of my projects!
 --->
 ## 📬 Connect with Me
 
-- 📧 Email: [pankaj.enggrl@gmail.com](mailto:pankaj.enggr@gmail.com)
+- 📧 Email: [👉Mail📨](mailto:pankaj.enggr@gmail.com)
 - 🌐 Website: [👆click](https://pnrt.github.io/folio/)
 - 🐦 Twitter: [@_pnrt](https://x.com/_pnrt)
 
